@@ -22,3 +22,10 @@ https://github.com/pedroslopez/whatsapp-web.js
 
 Get GPT like chatGPT on your terminal
 https://github.com/jucasoliveira/terminalGPT
+
+
+Gpt4all
+https://github.com/nomic-ai/gpt4all
+
+ChatGPT web UI
+https://github.com/Yidadaa/ChatGPT-Next-Web
