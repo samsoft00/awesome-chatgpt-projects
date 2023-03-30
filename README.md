@@ -29,3 +29,7 @@ https://github.com/nomic-ai/gpt4all
 
 ChatGPT web UI
 https://github.com/Yidadaa/ChatGPT-Next-Web
+
+Name: SpeechGPT
+Website: speechgpt.app
+https://github.com/hahahumble/speechgpt
