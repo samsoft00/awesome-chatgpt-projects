@@ -33,3 +33,7 @@ https://github.com/Yidadaa/ChatGPT-Next-Web
 Name: SpeechGPT
 Website: speechgpt.app
 https://github.com/hahahumble/speechgpt
+
+
+An experimental open-source attempt to make GPT-4 fully autonomous.
+https://github.com/Torantulino/Auto-GPT
