@@ -40,3 +40,6 @@ https://github.com/Torantulino/Auto-GPT
 
 ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 🤖
 https://github.com/askrella/whatsapp-chatgpt
+
+An open source ChatGPT UI.
+https://github.com/mckaywrigley/chatbot-ui
