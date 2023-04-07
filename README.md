@@ -37,3 +37,6 @@ https://github.com/hahahumble/speechgpt
 
 An experimental open-source attempt to make GPT-4 fully autonomous.
 https://github.com/Torantulino/Auto-GPT
+
+ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 🤖
+https://github.com/askrella/whatsapp-chatgpt
