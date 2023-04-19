@@ -43,3 +43,6 @@ https://github.com/askrella/whatsapp-chatgpt
 
 An open source ChatGPT UI.
 https://github.com/mckaywrigley/chatbot-ui
+
+GPT-powered chat for documentation search & assistance.
+https://github.com/arc53/DocsGPT
